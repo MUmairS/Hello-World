@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.logo img{
+    width: 100px;
+    height: 100px; 
+      
+}
+.Nav{
+background-color: white;
+
+}
+.itmes ul{
+direction: content: '\e647';;
+}
